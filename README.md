@@ -15,4 +15,4 @@ This JS challenge is from Platzi as part of a Ethereum developer program.
  - Working with IntersectionObserver API
 
  ## Online Sample:
- - [You can check the result out here]()
+ - [You can check the result out here](https://brusmax.github.io/js-challenge-demo/)
